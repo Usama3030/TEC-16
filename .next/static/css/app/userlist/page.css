@@ -1,0 +1,80 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+
+.page_main__GlU4n {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.page_main__GlU4n h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.page_main__GlU4n a {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.page_main__GlU4n a:hover {
+  background-color: #0051ca;
+}
+
+
+
+
+.page_user-list__yJ3Je {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.page_user-item__PFRtU {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page_button-container__2SQTs {
+  margin-top: 10px;
+}
+
+.page_button__vnlhW {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.page_button__vnlhW:hover {
+  background-color: #0051ca;
+}
+
+.page_disabled-button__8dV8s {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+
